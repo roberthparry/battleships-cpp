@@ -7,7 +7,7 @@ INCLUDE	:= include
 LIB		:= lib
 
 LIBRARIES	:=
-EXECUTABLE	:= battleships
+EXECUTABLE	:= main
 
 
 all: $(BIN)/$(EXECUTABLE)
