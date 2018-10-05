@@ -8,7 +8,7 @@ LIB		:= lib
 
 LIBRARIES	:=
 EXECUTABLE	:= battleships
- 
+
 
 all: $(BIN)/$(EXECUTABLE)
 
